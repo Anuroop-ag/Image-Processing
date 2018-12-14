@@ -1,0 +1,4 @@
+'''Enhance the grayscale image using median filter of size 3*3 and 5*5 mask.
+Find the edges using sobel gradient operator'''
+
+
